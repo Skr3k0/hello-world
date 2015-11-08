@@ -8,6 +8,7 @@
 - [x] completed
 - [ ] 
 
+-------|--------
 nieco     | x
 hocico    | y
 vsetko    | z
