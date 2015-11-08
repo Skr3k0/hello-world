@@ -3,7 +3,7 @@ next line
 commit test
 ## task list
 
--[] nesplnena uloha
+- [ ] nesplnena uloha
 - doplnkove info
 
 -[x] splnena uloha
