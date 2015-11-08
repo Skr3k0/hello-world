@@ -9,7 +9,8 @@
 - [ ] 
 
 . | .
-------- | --------:
-nieco     | x
-hocico    | y
-vsetko    | z
+--- | ------- | --------:
+- [ ] | nieco     | x
+ | blabla bla | 
+- [ ] | hocico    | y
+- [ ] | vsetko    | z
