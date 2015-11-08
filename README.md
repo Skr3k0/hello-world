@@ -3,7 +3,9 @@
 #### nadpis
 - [ ] #### a task list item                         | 35
   to do one hento tamto
+
 ---
+
 - [ ] list syntax required                          | 60
  nice solution
 ---
@@ -19,3 +21,6 @@
 - [ ] | hocico    | y
 - [ ] | vsetko    | z
 
+text
+---
+text
