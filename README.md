@@ -20,7 +20,11 @@
  | blabla bla | 
 - [ ] | hocico    | y
 - [ ] | vsetko    | z
-
+# nadpis 
 text
 ---
 text
+
+---
+
+lorem ipsum
